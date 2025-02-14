@@ -41,27 +41,27 @@
 - Установлены `curl`, `wget` и `nginx`.
 
 
-##Процесс выполнения
-###terraform init
+## Процесс выполнения
+### terraform init
 ![image](https://github.com/user-attachments/assets/bb999432-e452-49af-8d26-e3f86b65f36c)
-###terraform validate
+### terraform validate
 ![image](https://github.com/user-attachments/assets/9bf0eb95-d719-4237-acd6-6567a82940a5)
-###Вывод output после выполнения:
+### Вывод output после выполнения:
 ![image](https://github.com/user-attachments/assets/b9f7419a-1824-4747-ac42-d6df0acd2e34)
 
 
-##Скрины из VK Cloud:
-###ВМ1 
+## Скрины из VK Cloud:
+### ВМ1 
 ![image](https://github.com/user-attachments/assets/f8dac7fc-7073-42f6-ab04-68c34980a837)
 ![image](https://github.com/user-attachments/assets/0cfa0075-0012-4a48-9383-2169bed52663)
 ![image](https://github.com/user-attachments/assets/f6ac807e-66e4-40fd-a435-3dcef6b3a822)
 
-###ВМ2
+### ВМ2
 ![image](https://github.com/user-attachments/assets/ef66c1a4-b3b9-40ac-a259-e948e63d2d4a)
 ![image](https://github.com/user-attachments/assets/c0bfc5af-a404-490e-a1e2-f9035a510ce8)
 ![image](https://github.com/user-attachments/assets/1133a0ca-9675-4f0f-9b9b-c6ac41a9110b)
 
-###ВМ3
+### ВМ3
 ![image](https://github.com/user-attachments/assets/799bf3ba-103e-4d56-8319-3eab01d38188)
 ![image](https://github.com/user-attachments/assets/dc0aab6c-e8f7-4c06-a6b0-264cd739b456)
 ![image](https://github.com/user-attachments/assets/8375a40e-9072-448f-b7f8-6d530c0f1986)
